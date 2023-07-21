@@ -8,5 +8,5 @@
 
 * ``git clone https://github.com/emanuelvsz/qrcode-generator.git``
 * ``cd qrcode-generator``
-* edit the file ```requirements.txt`` how do you like
+* edit the file ``requirements.txt`` how do you like
 * ``go run ./main.go``
