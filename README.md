@@ -1,4 +1,4 @@
-# qrcore-generator
+# qrcode-generator
 
 ### *What is?*
 
